@@ -1,0 +1,309 @@
+==[[Fishing]] Collections==
+
+<div class=" mw-customtoggle-raw-fish mw-customtoggle-raw-salmon mw-customtoggle-clownfish mw-customtoggle-pufferfish mw-customtoggle-prismarine-shard mw-customtoggle-prismarine-crystals mw-customtoggle-clay mw-customtoggle-lily-pad mw-customtoggle-sponge mw-customtoggle-ink-sack wikia-menu-button small" style="padding: 3px 5px; font-weight: bold;">Show/Hide All Fishing collections</div>
+
+
+{| class="wikitable" style="text-align: center; table-layout: fixed; width:100%"
+! colspan="630" |{{LinkImage|Raw Fish}}
+<div class="mw-customtoggle-raw-fish wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-fish"
+! colspan="70" |I
+! colspan="70" |II
+! colspan="70" |III
+! colspan="70" |IV
+! colspan="70" |V
+! colspan="70" |VI
+! colspan="70" |VII
+! colspan="70" |VIII
+! colspan="70" |IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-fish"
+| colspan="70" |20
+| colspan="70" |50
+| colspan="70" |100
+| colspan="70" |250
+| colspan="70" |500
+| colspan="70" |1,000
+| colspan="70" |2,500
+| colspan="70" |15,000
+| colspan="70" |30,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-fish"
+| colspan="70" |[[Fish Hat]]
+| colspan="70" |[[Fishing Minion]]
+| colspan="70" |[[Small Fishing Bag]] Upgrade<br />(9 Slots)
+| colspan="70" |[[Pond Island]]
+| colspan="70" |[[Angler Armor|Angler Armor Set]]
+| colspan="70" |[[Enchanted Raw Fish]]
+| colspan="70" |[[Medium Fishing Bag]] Upgrade<br />(18 Slots)
+| colspan="70" |[[Enchanted Cooked Fish]]
+| colspan="70" |[[Large Fishing Bag]] Upgrade<br />(27 Slots)
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-fish"
+! colspan="315" |X
+! colspan="315" |XI
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-fish"
+| colspan="315" |45,000
+| colspan="315" |60,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-fish"
+| colspan="315" |[[Giant Fishing Bag]] Upgrade<br />(36 Slots)
+| colspan="315" style="border-bottom-width: 3px;" |[[Massive Fishing Bag]] Upgrade<br />(45 Slots)
+|-
+! colspan="630" |{{LinkImage|Raw Salmon}}
+<div class="mw-customtoggle-raw-salmon wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-salmon"
+! colspan="70" |I
+! colspan="70" |II
+! colspan="70" |III
+! colspan="70" |IV
+! colspan="70" |V
+! colspan="70" |VI
+! colspan="70" |VII
+! colspan="70" |VIII
+! colspan="70" |IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-salmon"
+| colspan="70" |20
+| colspan="70" |50
+| colspan="70" |100
+| colspan="70" |250
+| colspan="70" |500
+| colspan="70" |1,000
+| colspan="70" |2,500
+| colspan="70" |5,000
+| colspan="70" |10,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-salmon"
+| colspan="70" style="border-bottom-width: 3px;" |[[Fishing Bait|Minnow Bait]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Dodge Potion]]
+| colspan="70" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Lure|book=1|tier=IV}}
+| colspan="70" style="border-bottom-width: 3px;" |[[Enchanted Raw Salmon]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Speedster Rod]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Fishing Bait|Fish Bait]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Salmon Hat]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Enchanted Cooked Salmon]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Salmon Armor|Salmon Armor Set]]
+|-
+! colspan="630" |{{LinkImage|Clownfish}}
+<div class="mw-customtoggle-clownfish wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-clownfish"
+! colspan="90" |I
+! colspan="90" |II
+! colspan="90" |III
+! colspan="90" |IV
+! colspan="90" |V
+! colspan="90" |VI
+! colspan="90" |VII
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-clownfish"
+| colspan="90" |10
+| colspan="90" |25
+| colspan="90" |50
+| colspan="90" |100
+| colspan="90" |200
+| colspan="90" |400
+| colspan="90" |800
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-clownfish"
+| colspan="90" style="border-bottom-width: 3px;" |[[Clownfish Hat]]
+| colspan="90" style="border-bottom-width: 3px;" |[[Water Bucket]] Trade
+| colspan="90" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Magnet|book=1|tier=IV}}
+| colspan="90" style="border-bottom-width: 3px;" |[[Small Sack of Sacks]] Upgrade<br />(3 Slots)
+| colspan="90" style="border-bottom-width: 3px;" |[[Medium Sack of Sacks]] Upgrade<br />(6 Slots)
+| colspan="90" style="border-bottom-width: 3px;" |[[Large Sack of Sacks]] Upgrade<br />(9 Slots)
+| colspan="90" style="border-bottom-width: 3px;" |[[Greater Sack of Sacks]] Upgrade<br />(12 Slots)
+|-
+! colspan="630" |{{LinkImage|Pufferfish}}
+<div class="mw-customtoggle-pufferfish wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-pufferfish"
+! colspan="70" |I
+! colspan="70" |II
+! colspan="70" |III
+! colspan="70" |IV
+! colspan="70" |V
+! colspan="70" |VI
+! colspan="70" |VII
+! colspan="70" |VIII
+! colspan="70" |IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-pufferfish"
+| colspan="70" |20
+| colspan="70" |50
+| colspan="70" |100
+| colspan="70" |150
+| colspan="70" |400
+| colspan="70" |800
+| colspan="70" |2,400
+| colspan="70" |4,800
+| colspan="70" |9,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-pufferfish"
+| colspan="70" style="border-bottom-width: 3px;" |[[Pufferfish Hat]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Enchanted Pufferfish]]
+| colspan="70" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Cleave|book=1|tier=IV}}
+| colspan="70" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Depth Strider|book=1|tier=II}}
+| colspan="70" style="border-bottom-width: 3px;" |[[Fishing Bait|Spiked Bait]]<br />[[Small Fishing Sack]]
+| colspan="70" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Spiked Hook|book=1|tier=IV}}
+| colspan="70" style="border-bottom-width: 3px;" |[[Medium Fishing Sack]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Puffer Boat]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Large Fishing Sack]]
+|-
+! colspan="630" |{{LinkImage|Prismarine Shard}}
+<div class="mw-customtoggle-prismarine-shard wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-prismarine-shard"
+! colspan="126" |I
+! colspan="126" |II
+! colspan="126" |III
+! colspan="126" |IV
+! colspan="126" |V
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-prismarine-shard"
+| colspan="126" |10
+| colspan="126" |25
+| colspan="126" |50
+| colspan="126" |100
+| colspan="126" |200
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-prismarine-shard"
+| colspan="126" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Impaling|book=1|tier=II}}
+| colspan="126" style="border-bottom-width: 3px;" |[[Prismarine Blade]]
+| colspan="126" style="border-bottom-width: 3px;" |[[Enchanted Prismarine Shard]]
+| colspan="126" style="border-bottom-width: 3px;" |[[Prismarine Rod]]
+| colspan="126" style="border-bottom-width: 3px;" |[[Prismarine Bow]]
+|-
+! colspan="630" |{{LinkImage|Prismarine Crystals}}
+<div class="mw-customtoggle-prismarine-crystals wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-prismarine-crystals"
+! colspan="90" |I
+! colspan="90" |II
+! colspan="90" |III
+! colspan="90" |IV
+! colspan="90" |V
+! colspan="90" |VI
+! colspan="90" |VII
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-prismarine-crystals"
+| colspan="90" |10
+| colspan="90" |25
+| colspan="90" |50
+| colspan="90" |100
+| colspan="90" |200
+| colspan="90" |400
+| colspan="90" |800
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-prismarine-crystals"
+| colspan="90" style="border-bottom-width: 3px;" |[[Sea Lantern Hat]]
+| colspan="90" style="border-bottom-width: 3px;" |[[Fishing Bait|Light Bait]]
+| colspan="90" style="border-bottom-width: 3px;" |[[Enchanted Prismarine Crystals]]
+| colspan="90" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Aqua Affinity|book=1|tier=I}}
+| colspan="90" style="border-bottom-width: 3px;" |[[Guardian Chestplate]]
+| colspan="90" style="border-bottom-width: 3px;" |[[Fishing Bait|Blessed Bait]]
+| colspan="90" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Blessing|book=1|tier=IV}}
+|-
+! colspan="630" |{{LinkImage|Clay}}
+<div class="mw-customtoggle-clay wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-clay"
+! colspan="126" |I
+! colspan="126" |II
+! colspan="126" |III
+! colspan="126" |IV
+! colspan="126" |V
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-clay"
+| colspan="126" |50
+| colspan="126" |100
+| colspan="126" |250
+| colspan="126" |1,000
+| colspan="126" |2,500
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-clay"
+| colspan="126" style="border-bottom-width: 3px;" |[[Clay Minion]]
+| colspan="126" style="border-bottom-width: 3px;" |[[Enchanted Clay]]
+| colspan="126" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Respiration|book=1|tier=II}}
+| colspan="126" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Frail|book=1|tier=IV}}
+| colspan="126" style="border-bottom-width: 3px;" |[[Farmer's Rod]]
+|-
+! colspan="630" |{{LinkImage|Lily Pad}}
+<div class="mw-customtoggle-lily-pad wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-lily-pad"
+! colspan="70" |I
+! colspan="70" |II
+! colspan="70" |III
+! colspan="70" |IV
+! colspan="70" |V
+! colspan="70" |VI
+! colspan="70" |VII
+! colspan="70" |VIII
+! colspan="70" |IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-lily-pad"
+| colspan="70" |10
+| colspan="70" |50
+| colspan="70" |100
+| colspan="70" |200
+| colspan="70" |500
+| colspan="70" |1,500
+| colspan="70" |3,000
+| colspan="70" |6,000
+| colspan="70" |10,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-lily-pad"
+| colspan="70" style="border-bottom-width: 3px;" |[[Fishing Bait|Spooky Bait]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Blobfish Hat]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Healing Talisman]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Enchanted Lily Pad]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Challenging Rod]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Fishing Bait|Whale Bait]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Rod of Champions]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Healing Ring]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Rod of Legends]]
+|-
+! colspan="630" |{{LinkImage|Ink Sack}}
+<div class="mw-customtoggle-ink-sack wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ink-sack"
+! colspan="70" |I
+! colspan="70" |II
+! colspan="70" |III
+! colspan="70" |IV
+! colspan="70" |V
+! colspan="70" |VI
+! colspan="70" |VII
+! colspan="70" |VIII
+! colspan="70" |IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ink-sack"
+| colspan="70" |20
+| colspan="70" |40
+| colspan="70" |100
+| colspan="70" |200
+| colspan="70" |400
+| colspan="70" |800
+| colspan="70" |1,500
+| colspan="70" |2,500
+| colspan="70" |4,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ink-sack"
+| colspan="70" style="border-bottom-width: 3px;" |[[Squid Hat]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Fishing Bait|Dark Bait]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Enchanted Ink Sack]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Deep Ocean Biome Stick]]
+| colspan="70" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Caster|book=1|tier=IV}}
+| colspan="70" style="border-bottom-width: 3px;" |[[Blindness Potion]]
+| colspan="70" style="border-bottom-width: 3px;" |{{EnchantmentsLink|Angler|book=1|tier=IV}}
+| colspan="70" style="border-bottom-width: 3px;" |[[Bait Ring]]
+| colspan="70" style="border-bottom-width: 3px;" |[[Ink Wand]]
+|-
+! colspan="630" |{{LinkImage|Sponge}}
+<div class="mw-customtoggle-sponge wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sponge"
+! colspan="70" |I
+! colspan="70" |II
+! colspan="70" |III
+! colspan="70" |IV
+! colspan="70" |V
+! colspan="70" |VI
+! colspan="70" |VII
+! colspan="70" |VIII
+! colspan="70" |IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sponge"
+| colspan="70" |20
+| colspan="70" |40
+| colspan="70" |100
+| colspan="70" |200
+| colspan="70" |400
+| colspan="70" |800
+| colspan="70" |1,500
+| colspan="70" |2,500
+| colspan="70" |4,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sponge"
+| colspan="70" |[[Sponge Rod]]
+| colspan="70" |[[Sponge]] Trade
+| colspan="70" |[[Enchanted Sponge]]
+| colspan="70" |[[Sea Creature Talisman]]
+| colspan="70" |[[Stereo Pants]]
+| colspan="70" |[[Sea Creature Ring]]
+| colspan="70" |[[Enchanted Wet Sponge]]
+| colspan="70" |[[Sea Creature Artifact]]
+| colspan="70" |[[Sponge Armor|Sponge Armor Set]]
+|}

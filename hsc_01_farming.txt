@@ -1,0 +1,579 @@
+==[[Farming]] Collections==
+
+<div class=" mw-customtoggle-wheat mw-customtoggle-carrot mw-customtoggle-potato mw-customtoggle-pumpkin mw-customtoggle-melon mw-customtoggle-seeds mw-customtoggle-cocoa mw-customtoggle-cactus mw-customtoggle-sugar-cane mw-customtoggle-feather mw-customtoggle-leather mw-customtoggle-raw-porkchop mw-customtoggle-mutton mw-customtoggle-raw-chicken mw-customtoggle-raw-rabbit mw-customtoggle-nether-wart mw-customtoggle-mushroom wikia-menu-button hidden" style="padding:3px 5px; font-weight: bold;">Show/Hide Farming Collections</div>
+
+
+{| class="wikitable" style="text-align: center; overflow: auto; width:100%"
+!colspan="630"|{{LinkImage|Wheat}}
+<div class="mw-customtoggle-wheat wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-wheat"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-wheat"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|500
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|10,000
+|colspan="70"|15,000
+|colspan="70"|25,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-wheat"
+|colspan="70"|[[Wheat Minion]]
+|colspan="70"|{{EnchantmentsLink|Harvesting|book=1|tier=V}}
+|colspan="70"|[[Farm Suit Set]]
+|colspan="70"|[[Farming Talisman]]
+|colspan="70"|[[Enchanted Bread]]
+|colspan="70"|[[Farming Island]]
+|colspan="70"|[[Enchanted Hay Bale]]<br />[[Small Agronomy Sack]]
+|colspan="70"|[[Medium Agronomy Sack]]
+|colspan="70"|[[Farm Armor]] Set
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-wheat"
+!colspan="630"|X
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-wheat"
+|colspan="630"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-wheat"
+|colspan="630" style="border-bottom-width: 3px;"|[[Large Agronomy Sack]]
+|-
+!colspan="630"|{{LinkImage|Carrot}}
+<div class="mw-customtoggle-carrot wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-carrot"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-carrot"
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|500
+|colspan="70"|1,750
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|colspan="70"|100,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-carrot"
+|colspan="70" style="border-bottom-width: 3px;"|[[Carrot Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Simple Carrot Candy]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Catching Egg]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Carrot]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Carrot on a Stick]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Great Carrot Candy]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Golden Carrot]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Superb Carrot Candy]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Mega Catching Egg]]
+|-
+!colspan="630"|{{LinkImage|Potato}}
+<div class="mw-customtoggle-potato wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-potato"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-potato"
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|500
+|colspan="70"|1,700
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|colspan="70"|100,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-potato"
+|colspan="70" style="border-bottom-width: 3px;"|[[Potato Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Portals|Portal to the Barn]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Vaccine Talisman]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Potato]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Venomous Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Travel Scroll to the Barn]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Baked Potato]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Hot Potato Book]]
+|colspan="70" style="border-bottom-width: 3px;"| +10,000 [[Farming]] Experience
+|-
+!colspan="630"|{{LinkImage|Pumpkin}}
+<div class="mw-customtoggle-pumpkin wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-pumpkin"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-pumpkin"
+|colspan="70"|40
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-pumpkin"
+|colspan="70" style="border-bottom-width: 3px;"|[[Pumpkin Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Pumpkin Armor Set]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Pumpkin]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Cubism|book=1|tier=IV}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Training Dummy]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Farmer Orb]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Lantern Helmet]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Farm Crystal]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Farmer Boots]]
+|-
+!colspan="630"|{{LinkImage|Melon}}
+<div class="mw-customtoggle-melon wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-melon"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-melon"
+|colspan="70"|250
+|colspan="70"|500
+|colspan="70"|1,200
+|colspan="70"|5,000
+|colspan="70"|15,500
+|colspan="70"|25,000
+|colspan="70"|50,000
+|colspan="70"|100,000
+|colspan="70"|250,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-melon"
+|colspan="70" style="border-bottom-width: 3px;"|[[Melon Minion]]
+|colspan="70" style="border-bottom-width: 3px;"| +50 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"| +125 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Melon]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Glistering Melon]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Melon Block]]
+|colspan="70" style="border-bottom-width: 3px;"| ​+5,000 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"| +10,000 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"| +25,000 [[Farming]] Experience
+|-
+!colspan="630"|{{LinkImage|Seeds}}
+<div class="mw-customtoggle-seeds wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-seeds"
+!colspan="105"|I
+!colspan="105"|II
+!colspan="105"|III
+!colspan="105"|IV
+!colspan="105"|V
+!colspan="105"|VI
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-seeds"
+|colspan="105"|50
+|colspan="105"|100
+|colspan="105"|250
+|colspan="105"|1,000
+|colspan="105"|2,500
+|colspan="105"|5,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-seeds"
+|colspan="105" style="border-bottom-width: 3px;"|[[Dirt]] Trade
+|colspan="105" style="border-bottom-width: 3px;"|[[Clay]] Trade
+|colspan="105" style="border-bottom-width: 3px;"|[[Long Grass]] Trade
+|colspan="105" style="border-bottom-width: 3px;"|[[Fern]] Trade
+|colspan="105" style="border-bottom-width: 3px;"|[[Dead Bush]] Trade
+|colspan="105" style="border-bottom-width: 3px;"|[[Double Tallgrass]] Trade
+|-
+!colspan="630"|{{LinkImage|Mushroom}}
+<div class="mw-customtoggle-mushroom wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-mushroom"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-mushroom"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-mushroom"
+|colspan="70" style="border-bottom-width: 3px;"|[[Mushroom Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Mycelium]] Trade
+|colspan="70" style="border-bottom-width: 3px;"|[[Mushroom Armor Set]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Magical Mushroom Soup]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Brown Mushroom Block|Brown]] / [[Red Mushroom Block|Red]] Mushroom Block
+|colspan="70" style="border-bottom-width: 3px;"|Enchanted [[Enchanted Brown Mushroom|Brown]] / [[Enchanted Red Mushroom|Red]] Mushroom
+|colspan="70" style="border-bottom-width: 3px;"|[[Night Vision Charm]], [[Mystical Mushroom Soup]]
+|colspan="70" style="border-bottom-width: 3px;"|Enchanted [[Enchanted Brown Mushroom Block|Brown]] / [[Enchanted Red Mushroom Block|Red]] Mushroom Block
+|colspan="70" style="border-bottom-width: 3px;"|[[Bat Pet]]
+|-
+!colspan="630"|{{LinkImage|Cocoa Beans}}
+<div class="mw-customtoggle-cocoa wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-cocoa"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-cocoa"
+|colspan="70"|75
+|colspan="70"|200
+|colspan="70"|500
+|colspan="70"|2,000
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|20,000
+|colspan="70"|50,000
+|colspan="70"|100,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-cocoa"
+|colspan="70" style="border-bottom-width: 3px;"|[[Cocoa Beans Minion]]
+|colspan="70" style="border-bottom-width: 3px;"| +20 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"|[[Portals|Portal to Mushroom Desert]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Cocoa Bean]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Travel Scroll to Mushroom Island|Travel Scroll to Mushroom Desert]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Cookie]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Adrenaline Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Replenish|I|book=yes}}
+|colspan="70" style="border-bottom-width: 3px;"| +10,000 [[Farming]] Experience
+|-
+!colspan="630"|{{LinkImage|Cactus}}
+<div class="mw-customtoggle-cactus wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-cactus"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-cactus"
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|500
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-cactus"
+|colspan="70" style="border-bottom-width: 3px;"|[[Cactus Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Cactus Armor Set]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Resistance Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Cactus Green]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Desert Island]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Piercing|book=1|tier=I}}
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Thorns|book=1|tier=II}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Cactus]]
+|colspan="70" style="border-bottom-width: 3px;"| +5,000 [[Farming]] Experience
+|-
+!colspan="630"|{{LinkImage|Sugar Cane}}
+<div class="mw-customtoggle-sugar-cane wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sugar-cane"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sugar-cane"
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|500
+|colspan="70"|1,000
+|colspan="70"|2,000
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|20,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sugar-cane"
+|colspan="70" style="border-bottom-width: 3px;"|[[Sugar Cane Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Speed Talisman]]
+|colspan="70" style="border-bottom-width: 3px;"| +50 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Sugar]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Paper]] [[Speed Talisman]] → [[Speed Ring]] Upgrade
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Bookshelf]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Random Book]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Sugar Cane]] [[Speed Ring]] → [[Speed Artifact]] Upgrade
+|colspan="70" style="border-bottom-width: 3px;"|[[Speedster Armor|Speedster Armor Set]]
+|-
+!colspan="630"|{{LinkImage|Feather}}
+<div class="mw-customtoggle-feather wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-feather"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-feather"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-feather"
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Projectile Protection|book=1|tier=IV}}
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Feather Falling|book=1|tier=IV}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Archery Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Feather Talisman]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Feather]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Aiming|book=1|tier=IV}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Feather Ring]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Snipe|book=1|tier=II}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Feather Artifact]]
+|-
+!colspan="630"|{{LinkImage|Leather}}
+<div class="mw-customtoggle-leather wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-leather"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-leather"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-leather"
+|colspan="70"|[[Cow Minion]]
+|colspan="70"|[[Cow Head]]
+|colspan="70"|[[Small Backpack]]
+|colspan="70"|[[Enchanted Raw Beef]]
+|colspan="70"|[[Medium Backpack]]
+|colspan="70"|[[Enchanted Leather]]
+|colspan="70"|[[Saddle]]
+|colspan="70"|[[Large Backpack]]
+|colspan="70"|[[Horse Pet]]
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-leather"
+!colspan="630"|X
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-leather"
+|colspan="630"|100,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-leather"
+|colspan="630" style="border-bottom-width: 3px;"|[[Greater Backpack]]
+|-
+!colspan="630"|{{LinkImage|Raw Porkchop}}
+<div class="mw-customtoggle-raw-porkchop wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-porkchop"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-porkchop"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-porkchop"
+|colspan="70" style="border-bottom-width: 3px;"|[[Pig Minion]]
+|colspan="70" style="border-bottom-width: 3px;"| +10 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"|[[Pig Pet]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Pork]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Piggy Bank]]
+|colspan="70" style="border-bottom-width: 3px;"| +500 [[Farming]] Experience
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Grilled Pork]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Pigmen Pet]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Pigman Sword]]
+|-
+!colspan="630"|{{LinkImage|Raw Chicken}}
+<div class="mw-customtoggle-raw-chicken wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-chicken"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-chicken"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-chicken"
+|colspan="70" style="border-bottom-width: 3px;"|[[Chicken Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Bridge Egg]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Chicken Head]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Raw Chicken]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Egg]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Chicken Pet]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Cake]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Agility Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Super Enchanted Egg]]
+|-
+!colspan="630"|{{LinkImage|Mutton}}
+<div class="mw-customtoggle-mutton wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-mutton"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-mutton"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-mutton"
+|colspan="70" style="border-bottom-width: 3px;"|[[Sheep Minion]]
+|colspan="70" style="border-bottom-width: 3px;"| +10 [[Farming]] Expereince
+|colspan="70" style="border-bottom-width: 3px;"| +25 [[Farming]] Expereince
+|colspan="70" style="border-bottom-width: 3px;"|[[Mana Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Mutton]]<br />[[Small Husbandry Sack]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Rainbow|book=1|tier=I}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Sheep Pet]]<br />[[Medium Husbandry Sack]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Cooked Mutton]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Polymorph Wand]]<br />[[Large Husbandry Sack]]
+|-
+!colspan="630"|{{LinkImage|Raw Rabbit}}
+<div class="mw-customtoggle-raw-rabbit wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-rabbit"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-rabbit"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-raw-rabbit"
+|colspan="70" style="border-bottom-width: 3px;"|[[Rabbit Minion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Rabbit Pet]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Rabbit Potion]]
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Rabbit Foot]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Luck|book=1|tier=IV}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Enchanted Rabbit Hide]]
+|colspan="70" style="border-bottom-width: 3px;"|{{EnchantmentsLink|Luck of the Sea|book=1|tier=IV}}
+|colspan="70" style="border-bottom-width: 3px;"|[[Pet Luck Potion]]
+|colspan="70" style="border-bottom-width: 3px;"| +5,000 [[Farming]] Experience
+|-
+! colspan="630" |{{LinkImage|Nether Wart}}
+<div class="mw-customtoggle-nether-wart wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-nether-wart"
+!colspan="70"|I
+!colspan="70"|II
+!colspan="70"|III
+!colspan="70"|IV
+!colspan="70"|V
+!colspan="70"|VI
+!colspan="70"|VII
+!colspan="70"|VIII
+!colspan="70"|IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-nether-wart"
+|colspan="70"|50
+|colspan="70"|100
+|colspan="70"|250
+|colspan="70"|1,000
+|colspan="70"|2,500
+|colspan="70"|5,000
+|colspan="70"|10,000
+|colspan="70"|25,000
+|colspan="70"|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-nether-wart"
+| colspan="70" |[[Nether Wart Minion]]
+| colspan="70" |[[Small Potion Bag]] Upgrade<br />(9 Slots)
+| colspan="70" |[[Potion Affinity Talisman]]
+| colspan="70" |[[Enchanted Nether Wart]]
+| colspan="70" |[[Medium Potion Bag]] Upgrade<br />(18 Slots)
+| colspan="70" | +500 [[Alchemy]] Experience
+| colspan="70" |[[Potion Affinity Ring]]
+| colspan="70" |[[Large Potion Bag]] Upgrade<br />(27 Slots)
+| colspan="70" |[[Potion Affinity Artifact]]
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-nether-wart"
+!colspan="315" |X
+!colspan="315" |XI
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-nether-wart"
+|colspan="315"|75,000
+|colspan="315"|100,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-nether-wart"
+| colspan="315" |[[Giant Potion Bag]] Upgrade<br />(36 slots)
+| colspan="315" |[[Massive Potion Bag]] Upgrade<br />(45 Slots)
+|}

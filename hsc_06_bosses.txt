@@ -1,0 +1,79 @@
+==[[Boss]] Collections==
+
+<div class=" mw-customtoggle-bonzo mw-customtoggle-scarf mw-customtoggle-the-professor wikia-menu-button small" style="padding: 3px 5px; font-weight: bold;">Show/Hide All Boss Collections</div>
+
+
+{| class="wikitable" style="text-align: center; table-layout: fixed; width:100%"
+! colspan="630" |{{LinkImage|Bonzo}}
+<div class="mw-customtoggle-bonzo wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bonzo"
+! colspan="105"|I
+! colspan="105"|II
+! colspan="105"|III
+! colspan="105"|IV
+! colspan="105"|V
+! colspan="105"|VI
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bonzo"
+| colspan="105" |25
+| colspan="105" |50
+| colspan="105" |100
+| colspan="105" |150
+| colspan="105" |250
+| colspan="105" |1,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bonzo"
+| colspan="105" |[[Red Nose]]
+| colspan="105" |[[Bonzo's Mask]]
+| colspan="105" |[[Golden Bonzo Head]]
+| colspan="105" |[[Bonzo's Staff]]
+| colspan="105" |[[Recombobulator 3000]]
+| colspan="105" |[[Diamond Bonzo Head]]
+|-
+! colspan="630" |{{LinkImage|Scarf}}
+<div class="mw-customtoggle-scarf wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-scarf"
+! colspan="105"|I
+! colspan="105"|II
+! colspan="105"|III
+! colspan="105"|IV
+! colspan="105"|V
+! colspan="105"|VI
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-scarf"
+| colspan="105" |25
+| colspan="105" |50
+| colspan="105" |100
+| colspan="105" |150
+| colspan="105" |250
+| colspan="105" |1,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-scarf"
+| colspan="105" style="border-bottom-width: 3px;" |[[Red Scarf]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Scarf's Thesis]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Golden Scarf Head]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Adaptive Blade]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Recombobulator 3000]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Diamond Scarf Head]]
+|-
+! colspan="630" |{{LinkImage|The Professor}}
+<div class="mw-customtoggle-the-professor wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-the-professor"
+! colspan="105"|I
+! colspan="105"|II
+! colspan="105"|III
+! colspan="105"|IV
+! colspan="105"|V
+! colspan="105"|VI
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-the-professor"
+| colspan="105" |25
+| colspan="105" |50
+| colspan="105" |100
+| colspan="105" |150
+| colspan="105" |250
+| colspan="105" |1,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-the-professor"
+| colspan="105" style="border-bottom-width: 3px;" |[[Suspicious Vial]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Adaptive Leggings]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Golden Professor Head]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Adaptive Chestplate]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Recombobulator 3000]]
+| colspan="105" style="border-bottom-width: 3px;" |[[Diamond Professor Head]]
+|}
+

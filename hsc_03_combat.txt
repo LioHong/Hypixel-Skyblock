@@ -1,0 +1,270 @@
+==[[Combat]] Collections==
+
+<div class=" mw-customtoggle-rotten-flesh mw-customtoggle-bone mw-customtoggle-string mw-customtoggle-spider-eye mw-customtoggle-gunpowder mw-customtoggle-ender-pearl mw-customtoggle-ghast-tear mw-customtoggle-slimeball mw-customtoggle-blaze-rod mw-customtoggle-magma-cream wikia-menu-button hidden" style="padding:3px 5px; font-weight: bold;">Show/Hide Combat Collections</div>
+
+
+{| class="wikitable" style="text-align: center; table-layout: fixed; width:100%"
+! colspan="9" |{{LinkImage|Rotten Flesh}}
+<div class="mw-customtoggle-rotten-flesh wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-rotten-flesh"
+!I
+!II
+!III
+!IV
+!V
+!VI
+!VII
+!VIII
+!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-rotten-flesh"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-rotten-flesh"
+| style="border-bottom-width: 3px;" |[[Zombie Minion]]
+| style="border-bottom-width: 3px;" |[[Zombie Pickaxe]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Smite|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Enchanted Rotten Flesh]]
+| style="border-bottom-width: 3px;" |[[Zombie Hat]]<br />[[Small Combat Sack]]
+| style="border-bottom-width: 3px;" |[[Zombie's Heart|Zombie´s Heart]]
+| style="border-bottom-width: 3px;" |[[Zombie Sword]]<br />[[Medium Combat Sack]]
+| style="border-bottom-width: 3px;" |[[Zombie Armor|Zombie Armor Set]]
+| style="border-bottom-width: 3px;" |[[Zombie Pet]]<br />[[Large Combat Sack]]
+|-
+! colspan="9" |{{LinkImage|Bone}}
+<div class="mw-customtoggle-bone wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bone"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bone"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bone"
+| style="border-bottom-width: 3px;" |[[Skeleton Minion]]
+| style="border-bottom-width: 3px;" |[[Enchanted Bone Meal]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Power|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Skeleton Hat]]
+| style="border-bottom-width: 3px;" |[[Enchanted Bone]]
+| style="border-bottom-width: 3px;" |[[Skeleton Pet Egg]]
+| style="border-bottom-width: 3px;" |[[Hurricane Bow]]
+| style="border-bottom-width: 3px;" |[[Skeleton's Helmet]]
+| style="border-bottom-width: 3px;" |[[Runaan's Bow]]
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bone"
+! colspan="9"|X
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bone"
+| colspan="9"|150,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-bone"
+| colspan="9" style="border-bottom-width: 3px;" width="100%"|[[Enchanted Bone Block]]
+|-
+! colspan="9" |{{LinkImage|String}}
+<div class="mw-customtoggle-string wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-string"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-string"
+|60
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-string"
+| style="border-bottom-width: 3px;" |[[Spider Minion]]
+| style="border-bottom-width: 3px;" |[[Web]]
+| style="border-bottom-width: 3px;" |[[Quiver]] Upgrade<br />(27 slots)
+| style="border-bottom-width: 3px;" |[[Enchanted String]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Silk Touch|book=1|tier=I}}
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Infinite Quiver|book=1|tier=IV}}<br />[[Large Quiver]] Upgrade<br />(36 slots)
+| style="border-bottom-width: 3px;" |[[Grappling Hook]]
+| style="border-bottom-width: 3px;" |[[Spider´s Boots]]
+| style="border-bottom-width: 3px;" |[[Spider Pet]]<br />[[Giant Quiver]] Upgrade<br />(45 Slots)
+|-
+! colspan="9" |{{LinkImage|Spider Eye}}
+<div class="mw-customtoggle-spider-eye wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-spider-eye"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-spider-eye"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-spider-eye"
+| style="border-bottom-width: 3px;" |[[Cave Spider Minion]]
+| style="border-bottom-width: 3px;" |[[Spider Sword]]
+| style="border-bottom-width: 3px;" |[[Spider Hat]]
+| style="border-bottom-width: 3px;" |[[Enchanted Spider Eye]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Bane of Arthropods|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Venomous|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Enchanted Fermented Spider Eye]]
+| style="border-bottom-width: 3px;" |[[Cave Spider Pet]]
+| style="border-bottom-width: 3px;" |[[Leaping Sword]]
+|-
+! colspan="9" |{{LinkImage|Gunpowder}}
+<div class="mw-customtoggle-gunpowder wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-gunpowder"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-gunpowder"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-gunpowder"
+| style="border-bottom-width: 3px;" |[[Creeper Minion]]
+| style="border-bottom-width: 3px;" |[[Creeper Hat]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Blast Protection|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Enchanted Gunpowder]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Thunderlord|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Enchanted Firework Rocket]]
+| style="border-bottom-width: 3px;" |[[Random Firework]]
+| style="border-bottom-width: 3px;" |[[Creeper Pants]]
+| style="border-bottom-width: 3px;" |[[Explosive Bow]]
+|-
+! colspan="9" |{{LinkImage|Ender Pearl}}
+<div class="mw-customtoggle-ender-pearl wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ender-pearl"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ender-pearl"
+|50
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|15,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ender-pearl"
+| style="border-bottom-width: 3px;" |[[Enderman Minion]]
+| style="border-bottom-width: 3px;" |[[Enchanted Ender Pearl]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Ender Slayer|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[End Island]]
+| style="border-bottom-width: 3px;" |[[Ender Bow]]
+| style="border-bottom-width: 3px;" |[[Enchanted Eye of Ender]]
+| style="border-bottom-width: 3px;" |[[Teleport Pad]] Trade
+| style="border-bottom-width: 3px;" |[[Aspect of the End]]
+| style="border-bottom-width: 3px;" |[[Saving Grace]]
+|-
+! colspan="9" |{{LinkImage|Ghast Tear}}
+<div class="mw-customtoggle-ghast-tear wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ghast-tear"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ghast-tear"
+|20
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ghast-tear"
+| style="border-bottom-width: 3px;" |[[Ghast Minion]]
+| style="border-bottom-width: 3px;" |[[Ghast Head]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Giant Killer|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Enchanted Ghast Tear]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Vampirism|book=1|tier=IV}}
+| style="border-bottom-width: 3px;" |[[Silver Fang]]
+| style="border-bottom-width: 3px;" |[[Ghast Armor]]
+| style="border-bottom-width: 3px;" | +2,500 [[Combat]] Experience
+| style="border-bottom-width: 3px;" | +5,000 [[Combat]] Experience
+|-
+! colspan="9" |{{LinkImage|Slimeball}}
+<div class="mw-customtoggle-slimeball wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-slimeball"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-slimeball"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-slimeball"
+| style="border-bottom-width: 3px;" |[[Slime Minion]]
+| style="border-bottom-width: 3px;" |[[Slime Hat]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Knockback|book=1|tier=I}}
+| style="border-bottom-width: 3px;" |[[Knockback Potion]]
+| style="border-bottom-width: 3px;" |[[Enchanted Slimeball]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Punch|book=1|tier=I}}
+| style="border-bottom-width: 3px;" |[[Launch Pad]]
+| style="border-bottom-width: 3px;" |[[Enchanted Slime Block]]
+| style="border-bottom-width: 3px;" |[[Slime Bow]]
+|-
+! colspan="9" |{{LinkImage|Blaze Rod}}
+<div class="mw-customtoggle-blaze-rod wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-blaze-rod"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-blaze-rod"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-blaze-rod"
+| style="border-bottom-width: 3px;" |[[Blaze Minion]]
+| style="border-bottom-width: 3px;" |[[Blaze Hat]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Fire Aspect|book=1|tier=I}}
+| style="border-bottom-width: 3px;" |[[Enchanted Blaze Powder]]
+| style="border-bottom-width: 3px;" |[[Fire Talisman]]
+| style="border-bottom-width: 3px;" |{{EnchantmentsLink|Flame|book=1|tier=I}}
+| style="border-bottom-width: 3px;" |[[Enchanted Blaze Rod]]
+| style="border-bottom-width: 3px;" |[[Blaze Armor]]
+| style="border-bottom-width: 3px;" |[[Blaze Pet]]
+|-
+! colspan="9" |{{LinkImage|Magma Cream}}
+<div class="mw-customtoggle-magma-cream wikia-menu-button small" style="padding: 0px 3px; margin: 1px; float: right">Show/Hide</div>
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-magma-cream"
+!I !!II !!III !!IV !!V !!VI !!VII !!VIII !!IX
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-magma-cream"
+|50
+|100
+|250
+|1,000
+|2,500
+|5,000
+|10,000
+|25,000
+|50,000
+|- class="mw-collapsible mw-collapsed" id="mw-customcollapsible-magma-cream"
+|[[Magma Cube Minion]]
+|[[Magma Cube Head]]
+|{{EnchantmentsLink|Fire Protection|book=1|tier=IV}}
+|[[Nether Biome Stick]]
+|[[Enchanted Magma Cream]]
+|[[Lava Bucket]] Trade
+|[[Lava Talisman]]
+|[[Armor of Magma|Armor of Magma Set]]
+|[[Magma Bow]]
+|}
